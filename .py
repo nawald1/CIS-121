@@ -1,10 +1,7 @@
-# \"
-# \'
-# \\
-# \n
-course = "Python \nProgramming"
-print(course)
-
+first = Nawal
+last = Diriye
+full = f"len(first) {last}"
+print(full)
 
 
 
