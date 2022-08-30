@@ -1,8 +1,12 @@
-first = Nawal
-last = Diriye
-full = f"len(first) {last}"
-print(full)
-
+course = "  python programming"
+print(course.upper())
+print(course.lower())
+print(course.title())
+print(course.rstrip())
+print(course.find("Pro"))
+print(course.replace("p", "j"))
+print("pro" in course)
+print("swift" not in course)
 
 
 
