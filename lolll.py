@@ -4,14 +4,9 @@
 #asking user for age/converting input str to int
 #Create a script that asks the user for name, lastname, and age. Print out the info as follows.
 
-#Create a variable to store humans age 
-#Calculate how is the human in dog years
-#asking user for age/converting input str to int
-#Create a script that asks the user for name, lastname, and age. Print out the info as follows.
-
 name = input("Please enter your name: ")
 lastname = input("Please enter your lastname: ")
-age = input("Please enter your age: ")
+age = int(input("Please enter your age: "))
 print("Hi", name, lastname," you're",age,"years old, damn.")
 
 
