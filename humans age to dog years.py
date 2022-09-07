@@ -8,3 +8,9 @@ dog_years = 7
 human_age_in_dog_years = humans_age * dog_years
 print ("Your age in dog years is", human_age_in_dog_years)
 
+humans_age = float(input("How old are you?"))
+dog_years = 7
+human_age_in_dog_years = humans_age * dog_years
+print ("Your age in dog years is", human_age_in_dog_years, "years"," 0 months"," 0 days")
+
+
